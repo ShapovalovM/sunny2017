@@ -1,0 +1,6 @@
+.idea/
+vendor/
+
+res/
+!res/readme.md
+

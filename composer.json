@@ -1,0 +1,14 @@
+{
+    "name": "sunny/2017",
+    "authors": [
+        {
+            "name": "Maksym Shapovalov",
+            "email": "glimpseofmetal@gmail.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "*",
+        "setasign/fpdf": "1.8.1",
+        "parsecsv/php-parsecsv": "0.4.5"
+    }
+}
